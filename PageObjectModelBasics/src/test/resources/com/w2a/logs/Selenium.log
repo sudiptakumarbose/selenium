@@ -1,0 +1,13 @@
+10:49:50,339 DEBUG devpinoyLogger:72 - Config file loaded !!!
+10:49:50,351 DEBUG devpinoyLogger:87 - OR file loaded !!!
+10:50:18,257 DEBUG devpinoyLogger:135 - Navigated to : https://www.zoho.com/
+10:50:27,425 DEBUG devpinoyLogger:164 - Clicking on an Element : loginlink_CSS
+10:50:29,541 DEBUG devpinoyLogger:178 - Typing in an Element : email_CSS entered value as : sudipta512@rediffmail.com
+10:50:29,918 DEBUG devpinoyLogger:164 - Clicking on an Element : nextbutton_CSS
+10:50:30,643 DEBUG devpinoyLogger:178 - Typing in an Element : password_CSS entered value as : Uemeee20@2021
+10:50:30,823 DEBUG devpinoyLogger:164 - Clicking on an Element : signinBtn_CSS
+10:50:30,992 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10:50:30,996 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10:50:30,999 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10:50:31,002 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10:50:31,002 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
